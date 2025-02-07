@@ -14,6 +14,7 @@
 ## Projetos
 
 - [Dell-5480-6th](https://github.com/gustavx404/Dell-5480-6th) - Hackintosh no Dell 5480
+- [Lenovo-L390-8th](https://github.com/gustavx404/Thinkpad-L390-Hackintosh) -Hackintosh no Thinkpad L390
 - [DigisparkScripts-ptbr](https://github.com/gustavx404/DigisparkScripts-ptbr) - Scripts para Arduino Digispark
 - [Ender-3](https://github.com/gustavx404/Ender-3) - Projetos para impressora 3D Ender-3
 - [Estudos](https://github.com/gustavx404/Estudos) - Projetos de estudos
