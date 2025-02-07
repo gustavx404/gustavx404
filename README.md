@@ -27,4 +27,3 @@ Mais repositórios no meu [GitHub](https://github.com/gustavx404?tab=repositorie
 
 - 📫 Email: [onex404@proton.me](mailto:onex404@proton.me)
 - 💼 LinkedIn: [linkedin.com/in/gustavx404/](https://www.linkedin.com/in/gustavx404/)
-- 🐦 Twitter: [twitter.com/gustavx404](https://twitter.com/gustavx404)
