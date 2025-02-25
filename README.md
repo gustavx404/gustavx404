@@ -19,7 +19,6 @@
 - [Ender-3](https://github.com/gustavx404/Ender-3) - Projetos para impressora 3D Ender-3
 - [Estudos](https://github.com/gustavx404/Estudos) - Projetos de estudos
 - [G27_Pedals_and_Shifter](https://github.com/gustavx404/G27_Pedals_and_Shifter) - Interface USB Arduino para Logitech G27
-- [my_linux](https://github.com/gustavx404/my_linux) - Configurações para Linux (Desatualizado)
 - [Placa_Portao](https://github.com/gustavx404/Placa_Portao) - Integração de switch de portão com MQTT Homeassistant
 
 Mais repositórios no meu [GitHub](https://github.com/gustavx404?tab=repositories).
