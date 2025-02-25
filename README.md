@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 - 🌱 Sempre aprendendo novas tecnologias.
-- 🎓 Graduado em Ciência da Computação.
+- 🎓 Graduado em Defesa Cibernetica
 
 ## Habilidades
 
