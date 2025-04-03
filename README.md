@@ -6,9 +6,8 @@
 - 📚 Sempre aprendendo e explorando coisas novas.
 
 ## Habilidades
-- 💻 **Linguagens**: Python, Bash.
-- 🛠️ **Ferramentas**: Nmap, Metasploit.
-- 🔍 **Área de Interesse**: Segurança Cibernética.
+- 💻 **Linguagens**: Python, C++, Javascript, Bash.
+- 🔍 **Área de Interesse**: Segurança da informação.
 
 ## Contato
 - 💬 Discord: `gustavx404`
