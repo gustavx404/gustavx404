@@ -1,5 +1,3 @@
-# 👨‍💻 Hacker Iniciante | Usuário Linux
-
 ## Sobre
 - 🖥️ Usando **POP OS** como meu sistema operacional principal.
 - 🔐 Interesse em **Segurança Cibernética** e **Desenvolvimento de Software**.
